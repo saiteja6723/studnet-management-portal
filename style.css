@@ -1,0 +1,136 @@
+body{
+    background-color:#e3f2fd;
+}
+.main{
+    padding:10px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a{
+    padding: 0 10px;
+    
+}
+
+.NAV{
+    background-color:#e3f2fd;
+    padding:0 10px;
+}
+.btn:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: #0d6efd;
+    border-color:  #0d6efd;
+}
+.btn-outline-success {
+    --bs-btn-color:blue;
+    --bs-btn-border-color:blue;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg:blue;
+    --bs-btn-hover-border-color:blue;
+    --bs-btn-focus-shadow-rgb: 25,135,84;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg:blue;
+    --bs-btn-active-border-color:blue;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color:blue;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color:blue;
+    --bs-gradient: none;
+}
+
+.forms{
+    margin:1% 25%;
+    padding:2% 5%;
+    
+}
+
+.Forms{
+    padding-bottom: 34px;;
+}
+
+.gender{
+    margin: 0 25%;
+}
+
+.details{
+    font-family: 'Arimo', sans-serif;
+    background-color:white ;
+    padding:5% 5%;
+    border-style: solid;
+    border-color: #fff;
+    border-radius: 40px;
+    
+}
+
+.Heading{
+    font-size: 40px;
+    padding: 0 10%;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.Update-buttons{
+    padding: 1% 2%;
+}
+
+
+.sub:hover  {
+    background-color: rgb(81, 174, 255);
+    border-color:rgb(81, 174, 255); 
+    color:rgb(255, 255, 255);
+}
+.login:hover{
+    background-color: rgb(81, 174, 255);
+    border-color:rgb(81, 174, 255); 
+    color:rgb(255, 255, 255);
+}
+
+.login-page{
+    text-align: center;
+   
+    margin:10% 25%;
+    padding:2% 5%;
+}
+
+.User{
+    font-size: 70px;
+    padding:14px 0;
+    
+}
+
+.login{
+    padding:3px 45px;
+    color: #fff;
+}
+
+
+.reg{
+    text-decoration: none;
+    padding-left: 40px;
+}
+
+.reg:hover{
+    color: rgb(46, 48, 155);
+}
+
+a{
+    text-decoration: none;
+}
+
+.Login{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.update{
+    padding:20px;
+}
+
+
+.heading{
+   
+    padding:0px;
+}
+
+.main1{
+   
+    font-family: 'Ubuntu', sans-serif;
+}
